@@ -1,0 +1,16 @@
+.nav {
+  padding: 2px;
+  background-color: aqua;
+  font-size: large;
+  font-weight: bold;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.nav li {
+  margin: 0 50px 0 50px;
+}
