@@ -20,6 +20,17 @@
   height: 450px;
   width: 450px;
   position: relative;
-  top: 5%;
+  top: 0;
   left: 5%;
+  text-align: center;
+}
+
+button {
+  background-color: #0077B6;
+  color: #CAF0F8;
+  font-size: large;
+}
+
+button:hover {
+  background-color: #03045E;
 }
