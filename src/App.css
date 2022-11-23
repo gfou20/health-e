@@ -1,3 +1,25 @@
 .App {
   background-color: #CAF0F8;
+  background-image: url('../public/images/triangle.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.box1 {
+  background-color: #03045E;
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  bottom: 10%;
+  left: 25%;
+}
+
+.box2 {
+  background-color: #CAF0F8;
+  height: 450px;
+  width: 450px;
+  position: relative;
+  top: 5%;
+  left: 5%;
 }

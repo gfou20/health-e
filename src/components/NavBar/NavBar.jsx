@@ -5,7 +5,7 @@ function NavBar() {
     <nav className={styles.nav}>
       <ul>
         <li>About</li>
-        <li>Journel</li>
+        <li>Journal</li>
         <li>Contacts</li>
         <li>Appointments</li>
       </ul>
