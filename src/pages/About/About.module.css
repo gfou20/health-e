@@ -1,0 +1,9 @@
+.about p {
+  margin: 20px;
+}
+
+.about img {
+  height: 150px;
+  float: right;
+  margin: 5px;
+}
