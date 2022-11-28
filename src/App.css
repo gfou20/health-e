@@ -6,6 +6,10 @@
   background-position: right;
 }
 
+.App a, h1 {
+  text-decoration: none;
+}
+
 .box1 {
   background-color: #03045E;
   height: 500px;
